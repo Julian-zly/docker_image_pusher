@@ -1,4 +1,5 @@
-cloudreve/cloudreve:latest
-p3terx/aria2-pro
+jmal/jmalcloud:latest
+jmal/jmalcloud-nginx:latest
+onlyoffice/documentserver:8.0.1
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
