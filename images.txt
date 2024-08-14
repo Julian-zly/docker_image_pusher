@@ -1,5 +1,3 @@
-liyanzhu/push-msg-to-feishu:v0.0.2
-bitnami/prometheus:2.46.0
-bitnami/alertmanager:0.25.0
+prom/docker-exporter:latest
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
