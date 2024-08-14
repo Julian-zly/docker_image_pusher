@@ -1,4 +1,3 @@
-eipwork/etcd-host:3.4.16-2
-eipwork/kuboard:v3
+google/cadvisor:latest
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
