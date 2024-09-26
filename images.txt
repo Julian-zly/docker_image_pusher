@@ -1,4 +1,4 @@
-docker.io/grafana/loki:3.1.1
-docker.io/grafana/promtail:3.0.0
+docker.io/grafana/promtail:2.9.3
+grafana/loki:2.6.1
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
