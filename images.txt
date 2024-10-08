@@ -1,3 +1,3 @@
-1and1internet/blackbox_exporter:latest
+python:3.10.12-alpine
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
