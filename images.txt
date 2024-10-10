@@ -1,3 +1,7 @@
-adoptopenjdk/openjdk8-openj9:latest
+willfarrell/autoheal:1.2.0
+memcached
+openproject/openproject:14-slim
+postgres:13
+openproject/proxy
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
