@@ -1,4 +1,3 @@
-registry.rocket.chat/rocketchat/rocket.chat:6.8.0
-docker.io/bitnami/mongodb:5.0
+odivlad/webvirtmgr:v0.0.1
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
