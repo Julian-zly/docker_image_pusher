@@ -1,6 +1,3 @@
-jitsi/jicofo:stable-9753
-jitsi/jvb:stable-9753
-jitsi/prosody:stable-9753
-jitsi/web:stable-9753
+jitsi/base:latest
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
