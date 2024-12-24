@@ -1,3 +1,6 @@
-browserless/chrome:latest
+metabase/metabase:v0.49.1
+metabase/metabase:v0.49.11
+metabase/metabase:v0.49.25.2
+metabase/metabase:v0.50.1
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
