@@ -1,3 +1,3 @@
-mysql:8.0.34
+metabase/metabase:v0.51.10
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
