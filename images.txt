@@ -1,9 +1,4 @@
-metabase/metabase:v0.49.0
-metabase/metabase:v0.49.25.2
-metabase/metabase:v0.50.1
-metabase/metabase:v0.50.35
-metabase/metabase:v0.51.1
-metabase/metabase:v0.51.10
-metabase/metabase:v0.52.4.1
+node:18.19.1-alpine
+node:20.11.1-alpine3.19
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
