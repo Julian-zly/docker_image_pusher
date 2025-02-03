@@ -1,4 +1,4 @@
-docker.io/grafana/grafana:11.4.1
-docker.io/library/busybox:1.31.1
+grafana/loki:2.6.1
+docker.io/grafana/promtail:2.9.3
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
