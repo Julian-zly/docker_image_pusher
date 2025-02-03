@@ -1,7 +1,4 @@
-quay.io/prometheus/node-exporter:v1.8.2
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
-quay.io/prometheus/pushgateway:v1.11.0
-quay.io/prometheus-operator/prometheus-config-reloader:v0.79.2
-quay.io/prometheus/prometheus:v3.1.0
+docker.io/grafana/grafana:11.4.1
+docker.io/library/busybox:1.31.1
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
