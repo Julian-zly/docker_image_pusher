@@ -1,3 +1,10 @@
-grafana/loki:3.0.1
+kiwigrid/k8s-sidecar:1.29.0
+docker.io/grafana/loki:3.3.2
+docker.io/grafana/loki-canary:3.3.2
+memcached:1.6.34-alpine
+prom/memcached-exporter:v0.15.0
+docker.io/nginxinc/nginx-unprivileged:1.27-alpine
+memcached:1.6.34-alpine
+prom/memcached-exporter:v0.15.0
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
