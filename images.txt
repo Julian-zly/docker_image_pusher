@@ -1,5 +1,5 @@
-temporalio/admin-tools:1.26.2
-temporalio/server:1.26.2
-temporalio/ui:2.34.0
+docker.io/bats/bats:v1.4.1
+docker.io/library/busybox:1.31.1
+docker.io/grafana/grafana:11.4.0
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
