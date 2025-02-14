@@ -1,3 +1,3 @@
-mendhak/http-https-echo
+golang:1.23.5-alpine3.2
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
